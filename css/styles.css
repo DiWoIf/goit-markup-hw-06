@@ -971,6 +971,8 @@ button {
 
 .input-form {
   height: 40px;
+  padding-left: 34px;
+  padding-right: 34px;
 }
 
 .modal-element {
@@ -1089,6 +1091,11 @@ button {
   .modal {
     width: 408px;
     padding: 72px 24px 24px 24px;
+  }
+
+  .input-form {
+    padding-left: 38px;
+    padding-right: 38px;
   }
 
   .input-box {
