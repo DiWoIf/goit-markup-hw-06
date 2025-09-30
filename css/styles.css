@@ -1093,12 +1093,14 @@ button {
     padding: 72px 24px 24px 24px;
   }
 
+  .input-box {
+    margin-bottom: 16px;
+  }
+}
+
+@media screen and (min-width: 1158px) {
   .input-form {
     padding-left: 38px;
     padding-right: 38px;
-  }
-
-  .input-box {
-    margin-bottom: 16px;
   }
 }
